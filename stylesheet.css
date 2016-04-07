@@ -1,0 +1,26 @@
+.afuera {
+			width:700px ;
+			height:50px;
+			border-top:20px solid purple;
+			border-left:10px solid purple;
+			border-right:10px solid purple;
+			border-bottom:20px solid purple;
+			padding:40px 20px 70px 100px ;
+			margin:120px 60px 30.5px;
+			font-family: Arial;
+			background-color:bisque;
+			text-align:center;
+}
+
+.adentro {  
+			
+			background-color:white;
+			width:680px;
+			height:50px;
+			border:1px dashed black;
+			margin:auto;
+			text-align:center;
+}
+
+
+}
